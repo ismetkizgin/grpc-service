@@ -1,0 +1,24 @@
+{
+  "name": "MyFIS-GrpcService",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alihanakcm/MyFIS-GrpcService.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alihanakcm/MyFIS-GrpcService/issues"
+  },
+  "homepage": "https://github.com/Alihanakcm/MyFIS-GrpcService#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.4",
+    "grpc": "^1.24.2"
+  }
+}
